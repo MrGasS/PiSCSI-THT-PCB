@@ -8,7 +8,7 @@ You're free to make your own RaSCSI THT.
 This PCB gives you a typical 50 pin port for internal or SCSI case use, a DB-25 port for external use and also a 2mm 50 pin port for PowerBooks.  
   
 For PowerBook use: please note that stuffing my PCB into a PowerBook could require a bit of tweaking. In fact, I put the PowerBook port just to make this PCB more complete, but I'm not even sure that this stuff will fit into a PowerBook computer. Please note that I could remove it in next releases if incompatibilites will be discovered. Right now my PowerBook 145B has a broken screen and Pis are pricey, so, I'm not going to test this feature. Please, leave a feedback if you'll decide to test this feature.  
---------------------------------------------------------------------------------------------------------------------  
+__________________________________________________________________________________________________________  
 BOM:  
 P1: 2x20 = 40 pin header  
 R1: 330 ohm resistor (for led)  
@@ -21,7 +21,7 @@ SCSI - 50 pin: 2x25 = 50 pin header
 SCSI DB-25: female DB-25 angle port  
 SCSI - PB: 2x25 = 50 pin header with 2mm pitch  
 OLED: 128x32 3.3V OLED screen  
---------------------------------------------------------------------------------------------------------------------  
+__________________________________________________________________________________________________________  
 JUMPERS:  
 TERM_GND and TERM_5V: short them with a jumper to enable termination.  
   
