@@ -16,7 +16,7 @@ R1: 330 ohm resistor (for led)
 RN1 - RN2: 18x 10k resistors | OR | 2x 4610X-101-103LF  
 IC1 - IC2 - IC3 - IC4: 4x SN74LS641-1N  
 RN3 - RN4: 18x 330 ohm resistors | OR | 2x 4610X-101-331LF  
-RN5 - RN6: 18x 220 ohm resistors | OR | 2x 4610X-101-224LF  
+RN5 - RN6: 18x 220 ohm resistors | OR | 2x 4610X-101-221LF  
 SCSI - 50 pin: 2x25 = 50 pin header  
 SCSI DB-25: female DB-25 angle port  
 SCSI - PB: 2x25 = 50 pin header with 2mm pitch  
