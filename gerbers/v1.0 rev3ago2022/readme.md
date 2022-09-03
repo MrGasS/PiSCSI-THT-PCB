@@ -2,4 +2,4 @@
   
 **Version**: 1.0  
 **Revision**: 3ago2022  
-**Testing status:** tested through early prototype board (which is basically the same). I should be fully working.  
+**Testing status:** tested through early prototype board (which is basically the same). It should be fully working.  
