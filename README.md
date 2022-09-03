@@ -13,7 +13,7 @@ So, if you should damage something "sono cazzi tuoi" as we say here in Italy.
 __________________________________________________________________________________________________________  
 **BOM:**  
   
-P1: 2x20 = 40 pin header. 
+P1: 2x20 = 40 pin header  
 R1 (for ACT led): 330 ohm resistor (2k recommended from original RaSCSI's schematic)  
 R2 (for DEBUG led): 330 ohm resistor (2k recommended from original RaSCSI's schematic)  
 R3 (for POWER/+5V led): 330 ohm resistor (5.1k recommended from original RaSCSI's schematic)  
