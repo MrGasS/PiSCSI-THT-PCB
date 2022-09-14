@@ -49,6 +49,14 @@ If you have an internal BlueSCSI with termination enabled into your Macintosh an
 Even if you'll face weird problems with an internal SCSI2SD or a typical hard disk drive, please, try to remove termination from the RaSCSI board.  
 
 __________________________________________________________________________________________________________  
+## **How to make a resistor net?**  
+  
+Well, as you can see from this sample image, assembling a resistor net with your hands is very simple.  
+To make ONE resistor net just solder 9 resistors like the image, then short the other end of every resistor and solder everything to the square point.  
+It's simple, really.  
+
+![front](pictures/howtomakeresistornets.jpg)  
+__________________________________________________________________________________________________________  
 ## **Some pictures of the current released PCB**. 
 RaSCSI Reloaded THT PCB v1.0 - front view:  
 ![front](pictures/RaSCSI-Reloaded-THT-PCB-v1-0-FRONT.png)  
