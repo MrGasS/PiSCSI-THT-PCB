@@ -52,7 +52,7 @@ ________________________________________________________________________________
 ## **How to make a resistor net?**  
   
 Well, as you can see from this sample image, assembling a resistor net with your hands is very simple.  
-To make ONE resistor net just solder 9 resistors like the image, then short the other end of every resistor and solder everything to the square point.  
+In order to make ONE resistor net just solder 9 resistors like the image, then short the other end of every resistor and solder everything to the square point.  
 It's simple, really.  
 
 ![front](pictures/howtomakeresistornets.jpg)  
