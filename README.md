@@ -28,7 +28,7 @@ D1: ACT led;
 D2: DEBUG led;  
 D3: POWER/+5v led;  
 SCSI - 50 pin: 2x25 = 50 pin header (or 25 pins in the 2-49 pins row, since it has five GND points and the other row is all GNDs);  
-SCSI DB-25: female DB-25 90° degrees (or right angle, I don't know how to call it) port.  
+SCSI - DB-25: female DB-25 90° degrees (or right angle, I don't know how to call it) port.  
 __________________________________________________________________________________________________________  
 **JUMPERS and other ports:**  
   
