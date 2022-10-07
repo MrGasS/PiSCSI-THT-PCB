@@ -12,7 +12,7 @@ This design was tested intesively under a vast variety of Macs, but use it at yo
 If you should damage something "sono cazzi tuoi" as we say here in Italy.  
   
 __________________________________________________________________________________________________________  
-**BOM:**  
+## **BOM:**  
   
 P1: 2x20 = 40 pin header  
 RN1 - RN2: 18x 10k resistors | OR | 2x 4610X-101-103LF;  
@@ -30,7 +30,7 @@ D3: POWER/+5v led;
 SCSI - 50 pin: 2x25 = 50 pin header (or 25 pins in the 2-49 pins row, since it has five GND points and the other row is all GNDs);  
 SCSI - DB-25: female DB-25 90° degrees (or right angle, I don't know how to call it) port.  
 __________________________________________________________________________________________________________  
-**JUMPERS and other ports:**  
+## **JUMPERS and other ports:**  
   
 TERM_GND and TERM_5V: short them with a jumper to enable termination.  
   
@@ -45,7 +45,7 @@ J5: auxiliary/free pins, as described on original RaSCSI's schematics. For examp
   
 +5V / GND: compatible BERG/floppy molex header  
 __________________________________________________________________________________________________________  
-**Using RaSCSI and BlueSCSI together**  
+## **Using RaSCSI and BlueSCSI together**  
   
 If you have an internal BlueSCSI with termination enabled into your Macintosh and a RaSCSI board externally attached to it, please, remove termination from the external RaSCSI board, or you could face weird behaviors from your Mac while loading the OS.  
 Even if you'll face weird problems with an internal SCSI2SD or a typical hard disk drive, please, try to remove termination from the RaSCSI board.  
