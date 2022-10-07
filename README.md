@@ -1,5 +1,5 @@
 # **RaSCSI Reloaded THT PCB by MrGasS aka S.E.M.M.**  
-![front](pictures/RaSCSI-Reloaded-THT-PCB-logo-oct22-trasp500.png)  
+![front](pictures/RaSCSI-Reloaded-THT-PCB-logo-oct22-black500.png)  
 
 RaSCSI Reloaded THT is a PCB based on original RaSCSI Reloaded's schematics and board, this PCB aims to be cheap to make and DIY friendly, especially for those who have bad SMD soldering skills (not me, hehe).  
   
