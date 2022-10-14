@@ -77,4 +77,4 @@ RaSCSI Reloaded THT PCB v1.0 - front view:
 RaSCSI Reloaded THT PCB v1.0 - back view:  
 ![back](pictures/RaSCSI-Reloaded-THT-PCB-v1-0-BACK.png)
 
-*Latest README.md update: 7oct2022*  
+*Latest README.md update: 14oct2022*  
