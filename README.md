@@ -34,7 +34,7 @@ ________________________________________________________________________________
   
 TERM_GND and TERM_5V: short them with a jumper to enable termination.  
   
-Enable TERMPOW: enable giving termination power to other SCSI devices from the Raspberry Pi. As an example, if you have a BlueSCSI or a SCSI2SD daisy-chained with the RaSCSI and this function enabled, you'll see the BlueSCSI or the SCSI2SD turning on from Rasperry's power, even if the Macintosh isn't powered up.  
+Enable TERMPOW: enable giving termination power to other SCSI devices from the Raspberry Pi. As an example, if you have a BlueSCSI or a SCSI2SD daisy-chained with the RaSCSI and this function enabled, you'll see the BlueSCSI or the SCSI2SD turning on from Raspberry's power, even if the Macintosh isn't powered up.  
 Could be really useful when daisy chaining devices with a computer that doesn't serve termination power through the SCSI port like a Macintosh Plus, a IIsi or a PowerBook.  
 On the original board this jumper doesn't even exist: if you want to imitate it, just short these two points with a solder blob.
 If you don't care about giving termination power to other SCSI devices, you can omit the diode and the fuse: tests were done also with TERMPOW disabled and everything was perfectly stable.  
