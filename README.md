@@ -1,6 +1,13 @@
 # **RaSCSI Reloaded THT PCB by MrGasS aka S.E.M.M.**  
 ![front](pictures/RaSCSI-Reloaded-THT-PCB-logo-oct22-black500.png)  
-
+  
+__________________________________________________________________________________________________________  
+## Note about name change  
+RaSCSI Reloaded is now called PiSCSI.  
+PiSCSI and RaSCSI Reloaded are the same thing.  
+I'll update this project name in future, I'm too lazy right now.
+  
+__________________________________________________________________________________________________________  
 RaSCSI Reloaded THT is a PCB based on original RaSCSI Reloaded's schematics and board, this PCB aims to be cheap to make and DIY friendly, especially for those who have bad SMD soldering skills (not me, hehe).  
   
 I made this PCB for personal use, but I like to share it :)  
@@ -47,9 +54,8 @@ J5: auxiliary/free pins, as described on original RaSCSI's schematics. For examp
 __________________________________________________________________________________________________________  
 ## **Using RaSCSI and BlueSCSI together**  
   
-If you have an internal BlueSCSI with termination enabled into your Macintosh and a RaSCSI board externally attached to it, please, remove termination from the external RaSCSI board, or you could face weird behaviors from your Mac while loading the OS.  
-Even if you'll face weird problems with an internal SCSI2SD or a typical hard disk drive, please, try to remove termination from the RaSCSI board.  
-
+If you have an internal BlueSCSI with termination enabled into your Macintosh and a RaSCSI board externally attached to it or viceversa and you're facing weird issues, please, remove termination to a card of your choice.  
+  
 __________________________________________________________________________________________________________  
 ## **How to make a resistor net?**  
   
@@ -77,4 +83,4 @@ RaSCSI Reloaded THT PCB v1.0 - front view:
 RaSCSI Reloaded THT PCB v1.0 - back view:  
 ![back](pictures/RaSCSI-Reloaded-THT-PCB-v1-0-BACK.png)
 
-*Latest README.md update: 14oct2022*  
+*Latest README.md update: 8jan2023*  
