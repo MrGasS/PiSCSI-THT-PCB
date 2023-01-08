@@ -6,14 +6,14 @@
 **Testing status:** fully tested and working.
 
 ## 8/1/2023: UPDATE  
-I've done a lot of tests in this months and I can confirm that this PCB is absolutely correct, I compared the KiCAD project and the phisycal PCB against the original RaSCSI Reloaded 2.4 scheme and everything matches.  
-Yes, I have some issues when I connect it to my IIsi and IIci, but the point is that I run these Macs with a low-range ATX power supply and I suspect that this is the problem, sometimes they even crash with the April prototype.  
+I've done a lot of tests in this months and I can confirm that this PCB is absolutely correct, I compared the KiCAD project and the physical PCB against the original RaSCSI Reloaded 2.4 schematic and everything matches.  
+Yes, I have some issues when I connect it to my IIsi and IIci, but the point is that I run these Macs with a low-range ATX power supply and I suspect that it's the main cause of some instabilities, sometimes these Macs crash even with the April 2022 prototype.  
 However, I tested this PCB with my LC, my Quadra 700 and my G3/266 Beige Desktop and everything seems to be fine, no instability, no crashes, everything works.  
 The LC runs Mac OS 6.0.8 -> 7.5.3 without issues.  
 The Quadra 700 runs 7.1.2 -> 8.1 without issues, I even installed 7.5 on the intenal BlueSCSI and everything works.  
-The G3 runs 8.1 -> 9.2 without problems, I installed 8.1 and 8.6 from the internal CD unit to the RaSCSI and this computer boots from it without issues.  
-You can obviously make your own PCB, but keep in mind that I'm not responsible for any damage you can make to your Macintosh and that some instabilities can be related to the software side.  
-If you're searching some rock-solid storage solution for your Mac, please, go for a BlueSCSI.  
+The G3 runs 8.1 -> 9.2.2 without problems, I even installed 8.1 and 8.6 from the internal DVD unit to the RaSCSI and this computer boots from it without issues.  
+You can obviously make your own PCB, but I'm not responsible for any damage you can make to your Macintosh and keep in mind that some instabilities can be related to the software side.  
+If you're searching some rock-solid storage solution for your Mac go for a BlueSCSI.  
 Please, leave a feedback if you're gonna use this PCB on a IIsi or a IIci.  
 Thank you.  
   
